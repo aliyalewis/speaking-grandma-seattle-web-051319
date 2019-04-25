@@ -1,6 +1,6 @@
 def speak_to_grandma(string = "Hi Nana, how are you?")
-  if string == "I LOVE YOU GRANDMA!"
-    puts "I LOVE YOU TOO PUMPKIN!"
+  if string == 'I LOVE YOU GRANDMA!'
+    puts 'I LOVE YOU TOO PUMPKIN!'
   elsif string == string.downcase
     puts "HUH?! SPEAK UP, SONNY!"
   else string == string.upcase
