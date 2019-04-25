@@ -5,6 +5,7 @@ def speak_to_grandma(string = "Hi Nana, how are you?")
     puts "NO, NOT SINCE 1938!"
   else string == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
+  end
 end
 
 # Whatever you say to grandma, she should respond with
